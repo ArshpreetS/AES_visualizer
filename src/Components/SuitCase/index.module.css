@@ -1,0 +1,27 @@
+.main_container {
+    /* height: 50vh; */
+    width: 50vw;
+    /* background-color: black; */
+}
+
+.grid_container {
+    width: inherit;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.value_box {
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
