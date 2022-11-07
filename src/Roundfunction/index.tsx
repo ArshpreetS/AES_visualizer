@@ -66,90 +66,106 @@ const RoundFunction: React.FC = () => {
                         opacity: 0
                     }} transition={{
                         duration: 1
-                    }} style={{ width: '30%' }}>
-                        <Grid container style={{ width: '100%' }}>
+                    }} style={{ width: '40%' }}>
+                        <Grid container style={{ width: '90%' }}>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    {/* 1 */}
+                                    00
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    {/* 2 */}
+                                    3C
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    {/* 3 */}
+                                    6E
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div
-                                    className={styles.value_box}>
-                                    1
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    2
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    3
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    4
+                                    {/* 4 */}
+                                    47
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    {/* 1 */}
+                                    1F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    {/* 2 */}
+                                    4E
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    {/* 3 */}
+                                    22
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    {/* 4 */}
+                                    74
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    {/* 1 */}
+                                    0E
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    {/* 2 */}
+                                    08
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    {/* 3 */}
+                                    1B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    {/* 4 */}
+                                    31
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div
+                                    className={styles.value_box}>
+                                    {/* 1 */}
+                                    54
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
+                                    {/* 2 */}
+                                    59
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
+                                    {/* 3 */}
+                                    0B
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
+                                    {/* 4 */}
+                                    1A
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -166,85 +182,85 @@ const RoundFunction: React.FC = () => {
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    S
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    O
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    X
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    S
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    O
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    X
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    S
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    O
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    X
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    S
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    O
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    X
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -256,90 +272,90 @@ const RoundFunction: React.FC = () => {
                         opacity: 1
                     }} transition={{
                         delay: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '43%' }}>
                         <Grid container style={{ width: '100%' }} >
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    63
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    EB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    9F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    A0
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    C0
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    2F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    93
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    92
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    AB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    30
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    AF
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    C7
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    20
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    CB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    2B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    A2
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -358,22 +374,22 @@ const RoundFunction: React.FC = () => {
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    63
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    EB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    9F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    A0
                                 </motion.div>
                             </Grid>
                             {/* <motion.div > */}
@@ -382,22 +398,22 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:720}}
                                 transition={{duration:2,delay:2}}
                                     className={styles.value_box}>
-                                    1
+                                    C0
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -240, y: 0 }} className={styles.value_box}>
-                                    2
+                                    2F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -240, y: 0 }} className={styles.value_box}>
-                                    3
+                                    93
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -240, y: 0 }} className={styles.value_box}>
-                                    4
+                                    92
                                 </motion.div>
                             </Grid>
                             {/* </motion.div> */}
@@ -407,7 +423,7 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:480}}
                                 transition={{duration:2,delay:2}}
                                     className={styles.value_box}>
-                                    1
+                                    AB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
@@ -415,17 +431,17 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:480}}
                                 transition={{duration:2,delay:4}}
                                 className={styles.value_box}>
-                                    2
+                                    30
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -480, y: 0 }} className={styles.value_box}>
-                                    3
+                                    AF
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -480, y: 0 }} className={styles.value_box}>
-                                    4
+                                    C7
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
@@ -433,7 +449,7 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:240}}
                                 transition={{duration:2,delay:2}}
                                     className={styles.value_box}>
-                                    1
+                                    20
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
@@ -441,7 +457,7 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:240}}
                                 transition={{duration:2,delay:4}}
                                 className={styles.value_box}>
-                                    2
+                                    CB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
@@ -449,12 +465,12 @@ const RoundFunction: React.FC = () => {
                                 whileInView={{x:240}}
                                 transition={{duration:2,delay:6}}
                                 className={styles.value_box}>
-                                    3
+                                    2B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div initial={{ x: -720, y: 0 }} className={styles.value_box}>
-                                    4
+                                    A2
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -478,11 +494,6 @@ const RoundFunction: React.FC = () => {
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
                                     2
                                 </motion.div>
                             </Grid>
@@ -493,7 +504,12 @@ const RoundFunction: React.FC = () => {
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    1
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
+                                    1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
@@ -514,12 +530,17 @@ const RoundFunction: React.FC = () => {
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
+                                    1
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
                                     1
                                 </motion.div>
                             </Grid>
@@ -534,29 +555,24 @@ const RoundFunction: React.FC = () => {
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    4
+                                <motion.div
+                                    className={styles.value_box}>
+                                    3
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
-                                <motion.div
-                                    className={styles.value_box}>
+                                <motion.div className={styles.value_box}>
+                                    1
+                                </motion.div>
+                            </Grid>
+                            <Grid item lg={3} className={styles.box}>
+                                <motion.div className={styles.value_box}>
                                     1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
                                     2
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    3
-                                </motion.div>
-                            </Grid>
-                            <Grid item lg={3} className={styles.box}>
-                                <motion.div className={styles.value_box}>
-                                    4
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -568,92 +584,92 @@ const RoundFunction: React.FC = () => {
                         opacity: 0
                     }} transition={{
                         duration: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '43%' }}>
                         <Grid container style={{ width: '100%' }}>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    63
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    EB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    9F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    A0
                                 </motion.div>
                             </Grid>
                             {/* <motion.div> */}
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    2F
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    93
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    92
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    C0
                                 </motion.div>
                             </Grid>
                             {/* </motion.div> */}
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    AF
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    C7
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    AB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    30
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    A2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    20
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    CB
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    2B
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -665,90 +681,90 @@ const RoundFunction: React.FC = () => {
                         opacity: 1
                     }} transition={{
                         delay: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '43%' }}>
                         <Grid container style={{ width: '100%' }} >
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    BA
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    84
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E8
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    1B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    75
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    A4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    8D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    40
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    F4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    8D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    06
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    7D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    7A
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    32
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    0E
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    5D
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -767,90 +783,90 @@ const RoundFunction: React.FC = () => {
                         opacity: 0
                     }} transition={{
                         duration: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '43%' }}>
                         <Grid container style={{ width: '100%' }}>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    BA
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    84
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E8
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    1B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    75
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    A4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    8D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    40
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    F4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    8D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    06
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    7D
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    7A
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    32
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    0E
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    5D
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -862,90 +878,90 @@ const RoundFunction: React.FC = () => {
                         opacity: 0
                     }} transition={{
                         duration: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '43%' }}>
                         <Grid container style={{ width: '100%' }}>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    E2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    91
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    B1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    D6
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    32
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    12
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    59
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    79
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    FC
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    91
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    A2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    F1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    88
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E6
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    93
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -957,90 +973,90 @@ const RoundFunction: React.FC = () => {
                         opacity: 1
                     }} transition={{
                         delay: 1
-                    }} style={{ width: '30%' }}>
+                    }} style={{ width: '50%' }}>
                         <Grid container style={{ width: '100%' }} >
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    58
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    15
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    59
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    CD
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    47
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    B6
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    D4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    39
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    08
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    1C
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    DF
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div
                                     className={styles.value_box}>
-                                    1
+                                    8B
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    2
+                                    BA
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    3
+                                    E8
                                 </motion.div>
                             </Grid>
                             <Grid item lg={3} className={styles.box}>
                                 <motion.div className={styles.value_box}>
-                                    4
+                                    CE
                                 </motion.div>
                             </Grid>
                         </Grid>
