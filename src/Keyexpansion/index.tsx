@@ -46,14 +46,14 @@ const KeyExpansion: React.FC = () => {
         });
 
         await animation_go_down.start({
-            y: 125,
+            y: -125,
             transition: {
                 ease: "easeInOut",
                 duration: 0.5,
             }
         });
         await animation_switch_box.start({
-            y: -375,
+            y: 375,
             transition: {
                 ease: "easeInOut",
                 duration: 0.5
@@ -89,82 +89,82 @@ const KeyExpansion: React.FC = () => {
                     <Grid container spacing={0} className={styles.grid_container}>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                54
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                73
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                1
+                                67
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                68
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                4B
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                2
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                61
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                6D
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                75
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                3
+                                46
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                74
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                79
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                6E
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                4
+                                75
                             </motion.div>
                         </Grid>
                     </Grid>
@@ -178,82 +178,82 @@ const KeyExpansion: React.FC = () => {
                     <Grid container spacing={0} className={styles.grid_container}>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                54
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                73
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div transition={{ duration: 1 }} whileInView={{ x: 100, scale: 1.2 }} initial={{ x: 0 }} className={styles.value_box}>
-                                1
+                                67
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                68
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                4B
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div transition={{ duration: 1 }} whileInView={{ x: 100, scale: 1.2 }} initial={{ x: 0 }} className={styles.value_box}>
-                                2
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                61
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                6D
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                75
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div transition={{ duration: 1 }} whileInView={{ x: 100, scale: 1.2 }} initial={{ x: 0 }} className={styles.value_box}>
-                                3
+                                46
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                r
+                                74
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                o
+                                79
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div className={styles.value_box}>
-                                w
+                                6E
                             </motion.div>
                         </Grid>
                         <Grid item lg={3} className={styles.box}>
                             <motion.div transition={{ duration: 1 }} whileInView={{ x: 100, scale: 1.2 }} initial={{ x: 0 }} className={styles.value_box}>
-                                4
+                                75
                             </motion.div>
                         </Grid>
                     </Grid>
@@ -264,24 +264,24 @@ const KeyExpansion: React.FC = () => {
                 <motion.div className={styles.main_container}>
                     <Grid container spacing={0} className={styles.grid_container}>
                         <Grid item lg={12} className={styles.box}>
-                            <motion.div initial={{ x: 0, y: 0 }} animate={animation_go_down} transition={{ duration: 1, delay: 2 }} className={styles.value_box_temp}>
-                                1
+                            <motion.div initial={{ x: 0, y: 0 }} animate={animation_switch_box} className={styles.value_box_temp}>
+                                67
                             </motion.div>
                         </Grid>
                         <Grid item lg={12} className={styles.box}>
                             <motion.div initial={{ x: 0, y: 0 }} animate={animation_go_down} transition={{ duration: 1, delay: 2 }} className={styles.value_box_temp}>
-                                2
+                                20
                             </motion.div>
                         </Grid>
 
                         <Grid item lg={12} className={styles.box}>
                             <motion.div initial={{ x: 0, y: 0 }} animate={animation_go_down} transition={{ duration: 1, delay: 2 }} className={styles.value_box_temp}>
-                                3
+                                46
                             </motion.div>
                         </Grid>
                         <Grid item lg={12} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} animate={animation_switch_box} className={styles.value_box_temp}>
-                                4
+                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} animate={animation_go_down} transition={{ duration: 1, delay: 2 }}  className={styles.value_box_temp}>
+                                75
                             </motion.div>
                         </Grid>
                     </Grid>
@@ -296,10 +296,11 @@ const KeyExpansion: React.FC = () => {
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }}
                                 className={styles.value_box}>
-                                1
+                                20
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
@@ -307,7 +308,8 @@ const KeyExpansion: React.FC = () => {
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
                                 <FontAwesomeIcon icon={faPlay} />
                             </motion.div>
@@ -316,9 +318,10 @@ const KeyExpansion: React.FC = () => {
                             <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S1
+                                B7
                             </motion.div>
                         </Grid>
 
@@ -327,9 +330,10 @@ const KeyExpansion: React.FC = () => {
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                2
+                                46
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
@@ -337,76 +341,84 @@ const KeyExpansion: React.FC = () => {
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
                                 <FontAwesomeIcon icon={faPlay} />
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S2
+                                5A
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0 }} whileInView={{
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                3
+                                75
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0 }} whileInView={{
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
                                 <FontAwesomeIcon icon={faPlay} />
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S3
+                                9D
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0 }} whileInView={{
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                4
+                                67
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0 }} whileInView={{
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
                                 <FontAwesomeIcon icon={faPlay} />
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S4
+                                85
                             </motion.div>
                         </Grid>
                     </Grid>
@@ -430,10 +442,11 @@ const KeyExpansion: React.FC = () => {
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }}
                                 className={styles.value_box}>
-                                1
+                                B7
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
@@ -441,7 +454,8 @@ const KeyExpansion: React.FC = () => {
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
                                 1
                             </motion.div>
@@ -450,9 +464,10 @@ const KeyExpansion: React.FC = () => {
                             <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S1
+                                B6
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
@@ -460,9 +475,10 @@ const KeyExpansion: React.FC = () => {
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                2
+                                5A
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
@@ -470,76 +486,84 @@ const KeyExpansion: React.FC = () => {
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
-                            }} className={styles.value_box}>
-                                <FontAwesomeIcon icon={faPlay} />
-                            </motion.div>
-                        </Grid>
-                        <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
-                                opacity: 1
-                            }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S2
+                                0
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                opacity: 1
+                            }} transition={{
+                                duration: 2,
+                                delay: 1
+                            }} className={styles.value_box}>
+                                5A
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={4} className={styles.box}>
+                            <motion.div  initial={{ x: 0, y: 0 }} whileInView={{
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                3
+                                9D
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0 }} whileInView={{
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
-                            }} className={styles.value_box}>
-                                <FontAwesomeIcon icon={faPlay} />
-                            </motion.div>
-                        </Grid>
-                        <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
-                                opacity: 1
-                            }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S3
+                                0
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div  initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                opacity: 1
+                            }} transition={{
+                                duration: 2,
+                                delay: 1
+                            }} className={styles.value_box}>
+                                9D
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={4} className={styles.box}>
+                            <motion.div  initial={{ x: 0, y: 0 }} whileInView={{
                                 x: 75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                4
+                                85
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0 }} whileInView={{
                                 x: -75,
                                 opacity: 0
                             }} transition={{
-                                duration: 1
+                                duration: 2,
+                                delay: 1
                             }} className={styles.value_box}>
-                                <FontAwesomeIcon icon={faPlay} />
+                                0
                             </motion.div>
                         </Grid>
                         <Grid item lg={4} className={styles.box}>
-                            <motion.div ref={ref} initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                            <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                 opacity: 1
                             }} transition={{
+                                duration: 2,
                                 delay: 1
                             }} className={styles.value_box}>
-                                S4
+                                85
                             </motion.div>
                         </Grid>
                     </Grid>
@@ -551,14 +575,17 @@ const KeyExpansion: React.FC = () => {
                     <div style={{ width: '40%' }}>
                         <Grid container style={{ width: '100%' }}>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: 75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }}
                                     className={styles.value_box}>
-                                    1
+                                    Old col-1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
@@ -566,52 +593,65 @@ const KeyExpansion: React.FC = () => {
                                     x: -75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }} className={styles.value_box}>
-                                    1
+                                    X
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                     opacity: 1
                                 }} transition={{
+                                    duration: 2,
                                     delay: 1
                                 }} className={styles.value_box}>
-                                    S1
+                                    New col-1
                                 </motion.div>
                             </Grid>
                         </Grid>
                     </div>
-                    <div style={{ width: '40%' }}>
+                    <div style={{ width: '40%'}}>
                         <Grid container style={{ width: '100%' }} >
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: 75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }}
                                     className={styles.value_box}>
-                                    1
+                                    Old Col-2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: -75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }} className={styles.value_box}>
-                                    1
+                                    New Col-1
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                     opacity: 1
                                 }} transition={{
+                                    duration: 2,
                                     delay: 1
                                 }} className={styles.value_box}>
-                                    S1
+                                    New Col-2
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -621,33 +661,42 @@ const KeyExpansion: React.FC = () => {
                     <div style={{ width: '40%' }}>
                         <Grid container style={{ width: '100%' }}>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: 75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }}
                                     className={styles.value_box}>
-                                    1
+                                    Old Col-3
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: -75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }} className={styles.value_box}>
-                                    1
+                                    New Col-2
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                     opacity: 1
                                 }} transition={{
+                                    duration: 2,
                                     delay: 1
                                 }} className={styles.value_box}>
-                                    S1
+                                    New Col-3
                                 </motion.div>
                             </Grid>
                         </Grid>
@@ -655,38 +704,134 @@ const KeyExpansion: React.FC = () => {
                     <div style={{ width: '40%' }}>
                         <Grid container style={{ width: '100%' }} >
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: 75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }}
                                     className={styles.value_box}>
-                                    1
+                                    Old Col-4
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0 }} whileInView={{
                                     x: -75,
                                     opacity: 0
                                 }} transition={{
-                                    duration: 1
+                                    duration: 2,
+                                    delay: 1
                                 }} className={styles.value_box}>
-                                    1
+                                    New Col-3
                                 </motion.div>
                             </Grid>
                             <Grid item lg={4} className={styles.box}>
-                                <motion.div initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
+                                <motion.div
+                                style={{fontSize: '3rem'}}
+                                initial={{ x: 0, y: 0, opacity: 0 }} whileInView={{
                                     opacity: 1
                                 }} transition={{
+                                    duration: 2,
                                     delay: 1
                                 }} className={styles.value_box}>
-                                    S1
+                                    New Col-4
                                 </motion.div>
                             </Grid>
                         </Grid>
                     </div>
                 </div>
+            </section>
+            <section className={styles.regular_section1}>
+                <div className={styles.text_container}>Final Key</div>
+                <motion.div className={styles.main_container}>
+                    <Grid container spacing={0} className={styles.grid_container}>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                E2
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                91
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                B1
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                D6
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                32
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                12
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                59
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                79
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                FC
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                91
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                E4
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                A2
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                F1
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                88
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                E6
+                            </motion.div>
+                        </Grid>
+                        <Grid item lg={3} className={styles.box}>
+                            <motion.div className={styles.value_box}>
+                                93
+                            </motion.div>
+                        </Grid>
+                    </Grid>
+                </motion.div>
             </section>
 
         </React.Fragment>
